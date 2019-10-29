@@ -1,5 +1,5 @@
 # LaraTest
-Laravel applicatin with Vue frontend in Docker
+Laravel FaQ application.
 
 Setup insructions:
 
